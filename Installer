@@ -1,3 +1,4 @@
+pip install pygame --pre
 async-lru
 certifi
 charset-normalizer
@@ -5,7 +6,6 @@ idna
 mutagen
 pyaes
 pycryptodome
-pyrogram
 pyromod
 PySocks
 python-dotenv
